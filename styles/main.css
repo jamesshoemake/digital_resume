@@ -124,6 +124,12 @@ a {
   padding-left: 2em;
 }
 
+.card--projects {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  padding-left: 2em;
+}
+
 .line-break {
   background-color: var(--mainBorderColor);
   height: 1px;
