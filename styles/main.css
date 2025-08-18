@@ -107,7 +107,7 @@ a {
 #wrapper--techstack__sections {
   display: flex;
   flex-direction: column;
-  gap: 0.5em;
+  gap: 1em;
 }
 
 #wrapper--techstack__items {
