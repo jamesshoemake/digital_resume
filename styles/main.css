@@ -104,6 +104,12 @@ a {
   width: 33%;
 }
 
+#wrapper--techstack__sections {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
 #wrapper--techstack__items {
   display: flex;
   flex-wrap: wrap;
